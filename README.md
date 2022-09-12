@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm a 3rd year student learning C, Java, Python
 
 <!--
 **uss-roosevelt/uss-roosevelt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
